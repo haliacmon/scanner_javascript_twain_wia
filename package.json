@@ -16,11 +16,10 @@
     ]
   },
   "dependencies": {
-    "fs-extra": "^9.0.1",
-    "nodemon": "^2.0.4",
-    "pkg": "*"
+    "fs-extra": "^9.1.0",
+    "nodemon": "^2.0.22",
+    "pkg": "^5.8.1"
   },
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
